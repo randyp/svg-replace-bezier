@@ -6,4 +6,4 @@ This is accomplished by using [svg-path-parse](https://github.com/hughsk/svg-pat
 [http://randyp.github.io/svg-replace-bezier/demo/index.html]
 
 ### demo source
-[demo/index.html] [demo/bundle_index.js]
+[[./demo/index.html]] [[./demo/bundle_index.js]]

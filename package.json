@@ -1,0 +1,24 @@
+{
+  "name": "svg-replace-bezier",
+  "version": "0.0.1",
+  "description": "Replace bezier curves with line segments",
+  "main": "svg-replace-bezier.js",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/randyp/svg-replace-bezier.git"
+  },
+  "dependencies": {
+    "browserify": "11.0.x",
+    "jquery":"2.1.x",
+    "svg-path-parser" : "1.0.x"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "svg",
+    "path",
+    "d",
+    "attribute",
+    "lines"
+  ]
+}

@@ -1,5 +1,7 @@
 var replaceBezier = require('../svg-replace-bezier.js');
-var $ = require('jquery');
+
+/* var $ = require('jquery'); */
+
 $(document).ready(function () {
     //setup clones in table form
     {

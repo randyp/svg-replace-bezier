@@ -9,6 +9,11 @@ var replaceBezier = require('svg-replace-bezier');
 replaceBezier.d('M100,200 Q100,100 250,200 Q400,300 400,200'); /* outputs 'M100,200 L100.146484375,....' */
 ```
 
+### npm dependency
+``` sh
+npm install svg-replace-bezier
+```
+
 ### demo
 * [page](http://randyp.github.io/svg-replace-bezier/demo/index.html)
 * [source] (demo)

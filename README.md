@@ -11,4 +11,3 @@ replaceBezier.d('M100,200 Q100,100 250,200 Q400,300 400,200'); /* outputs 'M100,
 
 ### demo
 * [page](http://randyp.github.io/svg-replace-bezier/demo/index.html)
-* [source] (demo)

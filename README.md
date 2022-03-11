@@ -15,5 +15,4 @@ npm install svg-replace-bezier
 ```
 
 ### demo
-* [page](http://code-monastery.github.io/svg-replace-bezier/demo/index.html)
-* [source] (demo)
+* [demo page](https://randyp.github.io/svg-replace-bezier/demo/index.html)
